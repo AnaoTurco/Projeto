@@ -37,6 +37,9 @@ Depois --> cd C:\Users\Ecliton\Downloads\Projeto\task-api
 npm install --> Caso n tenha instalado as dependências do projeto
 Novamente --> npm run dev
 
+http://localhost:5000/api/users
+http://localhost:5000/api/tasks
+
 
 
 
